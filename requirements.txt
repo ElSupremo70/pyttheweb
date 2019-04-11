@@ -5,7 +5,7 @@
 #    pip-compile --output-file requirements.txt requirements.in
 #
 click==6.6                # via flask
-Flask==0.11.1             # via youtube-dl-server
+Flask==0.12.3             # via youtube-dl-server
 gunicorn==19.6.0
 itsdangerous==0.24        # via flask
 Jinja2==2.8.1             # via flask
