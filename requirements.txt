@@ -13,5 +13,5 @@
 
 gunicorn==19.6.0
 youtube-dl-server==0.3
-youtube-dl==2021.03.14    # via youtube-dl-server
+youtube-dl==2021.06.06    # via youtube-dl-server
 Flask==1.0                # via youtube-dl-server (old 0.11.1)
